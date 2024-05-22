@@ -278,7 +278,18 @@
         { "line": "d1ggo" }
 
       ]
+    },
+    {
+      "header": "V-Slice++ Developers",
+      "body": [
+        { "line": "EnterTheVoid-x86" }
+      ]
+    },
+    {
+      "header": "And one more thing...",
+      "body": [
+        { "line": "Thank YOU for playing the game!" }
+      ]
     }
-
   ]
 }
